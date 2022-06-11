@@ -1,0 +1,26 @@
+---INFORMAÇÕES----
+---INFORMAÇÕES DE INVESTIMENTO---
+PIC, Saldo : 24256,11
+
+----------------
+---INFORMAÇÕES BANCO ITAÚ---
+Começo : 09/05/2022
+Final : 09/05/2025
+Tempo de Contrato Atual : 12
+Tempo de Contrato Total : 36
+Quantia á ganhar por mês : 2500,00
+Dinheiro ganho até agora : 30000,00
+Restante á ganhar :  90000,00 - 30000,00 = 60000,00
+Meses Restantes de Contrato : 24 X 2500,00 = 60000,00
+ Total :  90000,00 | Isso - 60000,00 = 30000,00
+
+----------------
+---INFORMAÇÕES APLICAÇÃO AUTOMATICA---
+Gastos com PIC : 9000,00
+
+ TOTAL - PIC : 51000,00 (18 x 500)- Investimento 
+----------------
+---TOTAL GERAL---
+Total ganho em 08/02/2024 :75256.11
+---INFORMAÇÕES----
+
